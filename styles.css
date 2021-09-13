@@ -47,6 +47,8 @@ h1
 .contact-me
 {
   background-color: #C8C6C6;
+  font-family: Times New Roman, serif;
+  font-size: 100%;
 }
 .bottom-container
 {
@@ -54,6 +56,7 @@ h1
   background-color: #C8C6C6;
   padding: 10px;
   font-family: Times New Roman, serif;
+  font-size: 100%;
 }
 .name
 {
