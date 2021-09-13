@@ -1,0 +1,57 @@
+.happy
+{
+  background-color:#D4ECDD;
+  padding: 150px;
+  font-family: 'Merriweather', serif;
+
+}
+.intro
+{
+  background-color: #FFDAC7;
+  padding: 60px;
+    font-family: 'Sacramento', cursive;
+    font-size: 25px;
+
+}
+#cl1
+{
+  position: absolute;
+  left: 200px;
+  top: 300px;
+}
+#cl2
+{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+body{
+    color: #480032;
+    margin:0;
+    text-align: center;
+    border:0;
+    background-color: #C8C6C6
+}
+h1
+{
+  font-family: monospace;
+  margin-top:0;
+}
+.skills
+{
+  padding: 5px;
+  background-color: #FFE194;
+  padding: 150px;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact-me
+{
+  background-color: #C8C6C6;
+}
+.bottom-container
+{
+  display: block;
+  background-color: #C8C6C6;
+  padding: 10px;
+  font-family: Times New Roman, serif;
+}
